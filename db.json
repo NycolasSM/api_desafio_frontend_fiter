@@ -16,31 +16,66 @@
     },
     {
       "id": 2,
-      "nome": "Sergio Amad",
-      "cargo": "Founder & CEO",
+      "nome": "David Pacheco",
+      "cargo": "CFO | Diretor Financeiro",
       "telefone": "11921345675",
-      "foto": "https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=Blonde&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=Default&mouthType=Twinkle&skinColor=Light"
+      "foto": "https://media-exp1.licdn.com/dms/image/C5603AQFRVNuQqVwXWw/profile-displayphoto-shrink_200_200/0/1516555794472?e=1651104000&v=beta&t=duSpVzCIT5ILhNKYMzpAv7SrGdgxBivl63gXPtFWFcE"
     },
     {
       "id": 3,
-      "nome": "Sergio Amad",
-      "cargo": "Founder & CEO",
+      "nome": "Gabriel Santa Rosa",
+      "cargo": "Especialista em inovação",
       "telefone": "11921345675",
-      "foto": "https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=Blonde&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=Default&mouthType=Twinkle&skinColor=Light"
+      "foto": "https://media-exp1.licdn.com/dms/image/C4D03AQEFKyriH7OKAw/profile-displayphoto-shrink_200_200/0/1613433145691?e=1651104000&v=beta&t=DsGwJtITJFKWujrG-gS8BRg7qdhHcQN1IYoActh1KEw"
     },
     {
       "id": 4,
-      "nome": "Sergio Amad",
-      "cargo": "Founder & CEO",
+      "nome": "Miriã Menchini ",
+      "cargo": "SHO Business Partner Manager",
       "telefone": "11921345675",
-      "foto": "https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=Blonde&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=Default&mouthType=Twinkle&skinColor=Light"
+      "foto": "https://media-exp1.licdn.com/dms/image/C4D03AQEfSRqRs6grMw/profile-displayphoto-shrink_200_200/0/1628862318249?e=1651104000&v=beta&t=tI4KbKwKUxPrf8G8U9AvBqHIUNyKWFffWJpp0Wj_opY"
     },
     {
       "id": 5,
-      "nome": "Sergio Amad",
-      "cargo": "Founder & CEO",
+      "nome": "Adriana Ariosi",
+      "cargo": "Partnerships Harpio",
       "telefone": "11921345675",
-      "foto": "https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=Blonde&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=Default&mouthType=Twinkle&skinColor=Light"
+      "foto": "https://media-exp1.licdn.com/dms/image/C4D03AQF-8A_kDnuKlA/profile-displayphoto-shrink_200_200/0/1595883670562?e=1651104000&v=beta&t=yzL4hY6DlRGdfXXaR8AI8pL5ZYZLKxuUwfeSuCTCHtw"
+    },
+    {
+      "id": 6,
+      "nome": "Julliana Calhau Vitoriano",
+      "cargo": "Especialista em recrutamento e seleção",
+      "telefone": "11921345675",
+      "foto": "https://media-exp1.licdn.com/dms/image/C5103AQF1tlfm_sIRFg/profile-displayphoto-shrink_200_200/0/1517433944790?e=1651104000&v=beta&t=qhi0XIu6ewir3HLMM3-ML_S0hERWBdtWLuIOmmakVUo"
+    },
+    {
+      "id": 7,
+      "nome": "Claudia Santos",
+      "cargo": "Gerente administrativo",
+      "telefone": "11921345675",
+      "foto": "https://media-exp1.licdn.com/dms/image/C4D03AQEbO-rFRFnSHg/profile-displayphoto-shrink_200_200/0/1602505887715?e=1651104000&v=beta&t=PmLvABcwP7ZVbvhg3XbM3ZV2wtJMRf69kNJ-Ur8xUDI"
+    },
+    {
+      "id": 8,
+      "nome": "Paulo Ricardo Maia",
+      "cargo": "Latam Partner na fiter",
+      "telefone": "11921345675",
+      "foto": "https://media-exp1.licdn.com/dms/image/C4E03AQF3grYory2jpg/profile-displayphoto-shrink_200_200/0/1517339619915?e=1651104000&v=beta&t=gHiH6c-lVig3dd3Pm2_RFnkajYkmIJD1pWJhrY0mQY0"
+    },
+    {
+      "id": 9,
+      "nome": "Milton Marques",
+      "cargo": "Desenvolvedor",
+      "telefone": "11921345675",
+      "foto": "https://media-exp1.licdn.com/dms/image/D4E35AQHOkUSqf7-JyQ/profile-framedphoto-shrink_200_200/0/1641826906333?e=1645848000&v=beta&t=0hOor5ROjC3KzrUGKg_igHxGlKHerKfEMr0M18zyivc"
+    },
+    {
+      "id": 10,
+      "nome": "Rafael Cabral ",
+      "cargo": "Senior Software Engineer",
+      "telefone": "11921345675",
+      "foto": "https://media-exp1.licdn.com/dms/image/C4E03AQHuiGKCDMmvjA/profile-displayphoto-shrink_200_200/0/1575901633174?e=1651104000&v=beta&t=1BqBxwiYnTg6Y4yuz5dqgmmzyjkjmDrikuy_Mz0l3Fg"
     }
   ]
 }
